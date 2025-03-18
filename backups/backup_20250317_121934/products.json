@@ -1,0 +1,12 @@
+{
+    "1": {
+        "name": "fondomix",
+        "price": 15.0,
+        "quantity": 5
+    },
+    "2": {
+        "name": "dedolit",
+        "price": 13.0,
+        "quantity": 12
+    }
+}
