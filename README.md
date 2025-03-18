@@ -63,7 +63,3 @@ All data is automatically saved in the following locations:
 - `data/sales.json`: Sales records
 - `data/monthly/`: Monthly reports
 - `backups/`: Automatic backups
-
-## Support
-
-For any issues or questions, please contact the program administrator. 
